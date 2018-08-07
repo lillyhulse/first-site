@@ -1,0 +1,28 @@
+{
+  margin:0;
+  padding:0;
+}
+h1{
+  color:white;
+  text-align: center;
+}
+.button{
+  background-color: #pink;
+  color:white;
+  padding:10px 15px;
+
+}
+.button:hover{
+  background:white;
+  color:pink;
+}
+
+body{
+  background-color:pink;
+  color:white;
+  font-family: verdana ;
+  font-size: 12px;
+  font-weight: bolder;
+  line-height: 1.6em;
+
+}
